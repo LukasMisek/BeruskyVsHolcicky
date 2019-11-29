@@ -1,0 +1,11 @@
+C:\Users\cen65065\source\repos\BeruskyOOP\BeruskyOOP\bin\Debug\netcoreapp2.0\BeruskyOOP.deps.json
+C:\Users\cen65065\source\repos\BeruskyOOP\BeruskyOOP\bin\Debug\netcoreapp2.0\BeruskyOOP.runtimeconfig.json
+C:\Users\cen65065\source\repos\BeruskyOOP\BeruskyOOP\bin\Debug\netcoreapp2.0\BeruskyOOP.runtimeconfig.dev.json
+C:\Users\cen65065\source\repos\BeruskyOOP\BeruskyOOP\bin\Debug\netcoreapp2.0\BeruskyOOP.dll
+C:\Users\cen65065\source\repos\BeruskyOOP\BeruskyOOP\bin\Debug\netcoreapp2.0\BeruskyOOP.pdb
+C:\Users\cen65065\source\repos\BeruskyOOP\BeruskyOOP\obj\Debug\netcoreapp2.0\BeruskyOOP.csprojResolveAssemblyReference.cache
+C:\Users\cen65065\source\repos\BeruskyOOP\BeruskyOOP\obj\Debug\netcoreapp2.0\BeruskyOOP.csproj.CoreCompileInputs.cache
+C:\Users\cen65065\source\repos\BeruskyOOP\BeruskyOOP\obj\Debug\netcoreapp2.0\BeruskyOOP.AssemblyInfoInputs.cache
+C:\Users\cen65065\source\repos\BeruskyOOP\BeruskyOOP\obj\Debug\netcoreapp2.0\BeruskyOOP.AssemblyInfo.cs
+C:\Users\cen65065\source\repos\BeruskyOOP\BeruskyOOP\obj\Debug\netcoreapp2.0\BeruskyOOP.dll
+C:\Users\cen65065\source\repos\BeruskyOOP\BeruskyOOP\obj\Debug\netcoreapp2.0\BeruskyOOP.pdb
